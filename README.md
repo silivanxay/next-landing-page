@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+and followed tutorial from https://levelup.gitconnected.com/create-landing-page-by-nextjs-re-ba37c2328aa8 .
 ## Getting Started
 
 First, run the development server:
